@@ -1,3 +1,2 @@
-a=5
-b=9
-print(a*b)
+def add(a,b):
+  return(a+b)
